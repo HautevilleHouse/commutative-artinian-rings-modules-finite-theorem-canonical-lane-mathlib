@@ -1,0 +1,9 @@
+import commutative_artinian_rings_modules_finite_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace commutative_artinian_rings_modules_finite_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end commutative_artinian_rings_modules_finite_theorem_canonical_lane_mathlib
+end HautevilleHouse
